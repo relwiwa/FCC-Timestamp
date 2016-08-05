@@ -1,0 +1,23 @@
+{
+  "name": "fcc-timestamp",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice app for FreeCodeCamp's Backend Certification",
+  "main": "app.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relwiwa/FCC-Timestamp.git"
+  },
+  "author": "Walter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/relwiwa/FCC-Timestamp/issues"
+  },
+  "homepage": "https://github.com/relwiwa/FCC-Timestamp#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "moment": "^2.14.1"
+  }
+}
