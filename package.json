@@ -2,8 +2,12 @@
   "name": "fcc-timestamp",
   "version": "1.0.0",
   "description": "Timestamp Microservice app for FreeCodeCamp's Backend Certification",
+  "engines": {
+    "node": "^4.4.2"
+  },
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "test/test.js"
   },
   "repository": {
